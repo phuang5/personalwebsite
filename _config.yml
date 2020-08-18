@@ -1,12 +1,12 @@
 title: Peng Huang
 description: Peng Huang's personal website
-sourcecode: "https://github.com/phuang5/personalwebsite"
+sourcecode: "https://github.com/phuang5/personalweb"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: "http://phuang5.github.io"     # the base hostname & protocol for your site
-baseurl: "/personalwebsite"                   # the subpath of your site, e.g. /blog
+baseurl: "/personalweb"                   # the subpath of your site, e.g. /blog
 
 author:
     name: Peng Huang
