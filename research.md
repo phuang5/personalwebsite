@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-
+---
 
 ## Peer-Reviewed Journal
 
