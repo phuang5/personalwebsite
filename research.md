@@ -5,7 +5,7 @@ title: Research
 
 ---
 
-## Peer-Reviewed Journal
+### Peer-Reviewed Journal
 
 {% assign thumbnail="left" %}
 
@@ -17,6 +17,6 @@ Standard epidemiological models for COVID-19 employ variants of compartment (SIR
 
 ---
 
-## Working Paper
+### Working Paper
 
 <p><strong>Huang, Peng</strong>, Carter T. Butts. "Intercounty Migration in an Immobile Era: A Network Perspective."</p>
