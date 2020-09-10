@@ -33,3 +33,4 @@ Email: peng.huang [at] uci.edu <br />
 [ergm.count]: https://cran.r-project.org/web/packages/ergm.count/index.html
 [LinkedIn]: https://www.linkedin.com/in/peng-huang-a1b4b9a4
 [ORCID]: https://orcid.org/0000-0001-5614-786X
+[Google Scholar]: https://scholar.google.com/citations?hl=en&user=Syb9tOAAAAAJ
