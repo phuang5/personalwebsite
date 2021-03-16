@@ -8,7 +8,7 @@ permalink: /
 
 I am a [Sociology PhD student] at University of California, Irvine, affiliated with the Networks, Computation, and Social Dynamics Lab, and advised by Professor [Carter T. Butts]. Before coming to UCI, I received bachelor's degrees in Sociology and Economics from [Peking University]. <br />
 
-Broadly interested in social relations and population dynamics, I take a relational and structural approach to study social processes and people's experience therein. My current project examines how network dynamics and geopolitical conditions shape internal and international migration. My second line of research studies the spatial distribution of social relations, and its application in understanding the diffusion of infectious diseases such as [COVID-19]. <br />
+Broadly interested in social relations and population dynamics, I take a relational and structural approach to study social processes and people's experience therein. My current project examines how network dynamics and geopolitical conditions shape internal and international migration. My second line of research studies the spatial distribution of social relations, and its application in understanding the [diffusion of infectious diseases] such as COVID-19. <br />
 
 My methodological work mainly focuses on developing statistical and computational methods to model network relations and population structures (in dynamic and on a large scale). I am currently studying the modelling of large, dynamic, valued networks under the framework of exponential-family random graph models (ERGMs). In another project, we employ loglinear models and simulated annealing for imputation of three-way array data, which can be applied to infer distributions of multiple demographic characteristics in small-areal units.
 
@@ -33,7 +33,7 @@ Email: peng.huang [at] uci.edu <br />
 [Carter T. Butts]: https://scholar.google.com/citations?user=-VGAs1cAAAAJ&hl=en&oi=ao
 <!--http://www.carterbutts.com/index.html-->
 [Peking University]:http://english.pku.edu.cn/
-[COVID-19]: https://doi.org/10.1073/pnas.2011656117
+[diffusion of infectious diseases]: https://doi.org/10.1073/pnas.2011656117
 [ergm.count]: https://cran.r-project.org/web/packages/ergm.count/index.html
 [LinkedIn]: https://www.linkedin.com/in/peng-huang-a1b4b9a4
 [ORCID]: https://orcid.org/0000-0001-5614-786X
