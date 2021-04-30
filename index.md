@@ -30,8 +30,8 @@ Email: peng.huang [at] uci.edu <br />
 
 [Sociology PhD student]: https://www.sociology.uci.edu/
 [Networks, Computation, and Social Dynamics Lab]: http://ncasd.org/index.html
-[Carter T. Butts]: https://scholar.google.com/citations?user=-VGAs1cAAAAJ&hl=en&oi=ao
-<!--http://www.carterbutts.com/index.html-->
+[Carter T. Butts]: http://www.carterbutts.com/index.html
+<!--https://scholar.google.com/citations?user=-VGAs1cAAAAJ&hl=en&oi=ao-->
 [Peking University]:http://english.pku.edu.cn/
 [diffusion of infectious diseases]: https://doi.org/10.1073/pnas.2011656117
 [ergm.count]: https://cran.r-project.org/web/packages/ergm.count/index.html
