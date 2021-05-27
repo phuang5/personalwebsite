@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/Peng_19Winter.jpeg" caption="" width="300px" align="right" %}
 
-I am a [Sociology PhD student] at University of California, Irvine, affiliated with the Networks, Computation, and Social Dynamics Lab, and advised by Professor [Carter T. Butts]. Before coming to UCI, I received bachelor's degrees in Sociology and Economics from [Peking University]. <br />
+I am a [Sociology PhD candidate] at University of California, Irvine, affiliated with the Networks, Computation, and Social Dynamics Lab, and advised by Professor [Carter T. Butts]. Before coming to UCI, I received bachelor's degrees in Sociology and Economics from [Peking University]. <br />
 
 Broadly interested in social relations and population dynamics, I take a relational and structural approach to study social processes and people's experience therein. My current project examines how network dynamics and geopolitical conditions shape internal and international migration. My second line of research studies the spatial distribution of social relations, and its application in understanding the [diffusion of infectious diseases] such as COVID-19. <br />
 
@@ -28,7 +28,7 @@ Email: peng.huang [at] uci.edu <br />
 
 <!--Note: add [] back to NCASD and use research page of Carter once websites are back -->
 
-[Sociology PhD student]: https://www.sociology.uci.edu/
+[Sociology PhD candidate]: https://www.sociology.uci.edu/
 [Networks, Computation, and Social Dynamics Lab]: http://ncasd.org/index.html
 [Carter T. Butts]: http://www.carterbutts.com/index.html
 <!--https://scholar.google.com/citations?user=-VGAs1cAAAAJ&hl=en&oi=ao-->
