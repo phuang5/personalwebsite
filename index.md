@@ -10,7 +10,7 @@ I am a Sociology PhD candidate at University of California, Irvine, affiliated w
 
 Broadly interested in social relations and population dynamics, I take a relational and structural approach to study social processes and people's experience therein. My current project examines how network dynamics and geopolitical conditions shape internal and international migration. My second line of research studies the spatial distribution of social relations, and its application in understanding the [diffusion of infectious diseases] such as COVID-19. <br />
 
-My methodological work mainly focuses on developing statistical and computational methods to model network relations and population structures (in dynamic and on a large scale). I study computational methods for modelling valued/weighted networks, especially for large networks with high edge variance, under the framework of exponential-family random graph models (ERGMs). In another project, we employ loglinear models and simulated annealing for imputation of three-way array data, which can be applied to infer distributions of multiple demographic characteristics in small-areal units.
+My methodological work mainly focuses on developing statistical and computational methods to model network relations and population structures (in dynamic and on a large scale). I study computational methods for [modelling valued/weighted networks], especially for large networks with high edge variance, under the framework of exponential-family random graph models (ERGMs). In another project, we employ loglinear models and simulated annealing for imputation of three-way array data, which can be applied to infer distributions of multiple demographic characteristics in small-areal units.
 
 <!--I also develop statistical and computational methods. I develop methods and tools to model large, dynamic, valued networks using the [ERGM] framework, by implementing functions of Maximum Pseudo Likelihood Estimation. In another project, we develop methods to input three-way crosstab data using loglinear models and simulated annealing, which could be employed to estimate the interactions among demographic characteristics in different geographic areas. I also write codes under the ergm framework in R to model network patterns, visualize model accuracy, create formatted regression tables, etc. You can sisit the programming section for more information.
 I am also implementing codes, as extension of [ergm.count] package in R, for goodness-of-fit diagnosis and modeling of dependence terms. 
@@ -28,6 +28,7 @@ Email: peng.huang [at] uci.edu <br />
 
 <!--Note: add [] back to NCASD and use research page of Carter once websites are back -->
 
+[modelling valued/weighted networks]: http://arxiv.org/abs/2111.02372
 [Sociology PhD candidate]: https://www.sociology.uci.edu/
 [Networks, Computation, and Social Dynamics Lab]: http://ncasd.org/index.html
 [Carter T. Butts]: http://www.carterbutts.com/index.html
