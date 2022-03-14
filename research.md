@@ -10,7 +10,7 @@ title: Research
 {% assign thumbnail="right" %}
 
 <p><strong><a href="https://doi.org/10.1073/pnas.2121675119"> Geographical Patterns of Social Cohesion Drive Disparities in Early COVID Infection Hazard</a></strong> (<em>PNAS</em> 2022)</p>
-{% include image.html url="../images/combMap.jpg" caption="Cohesion-related hazard and simulated infection time in San Francisco" height="230px" align=thumbnail %}
+{% include image.html url="../images/combMap.jpg" caption="Cohesion-related hazard and <p>simulated infection time in San Francisco</p>" height="230px" align=thumbnail %}
 The uneven spread of COVID-19 has resulted in disparate experiences for marginalized populations in urban centers. Using computational models, we examine the effects of local cohesion on COVID-19 spread in social contact networks for the city of San Francisco, finding that more early COVID-19 infections occur in areas with strong local cohesion. This spatially correlated process tends to affect Black and Hispanic communities more than their Non-Hispanic White counterparts. Local social cohesion thus acts as a potential source of hidden risk for COVID-19 infection.
 
 <p><strong><a href="https://doi.org/10.1073/pnas.2011656117"> Spatial Heterogeneity Can Lead to Substantial Local Variations inCOVID-19 Timing and Severity</a></strong> (<em>PNAS</em> 2020)</p>
