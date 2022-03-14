@@ -7,7 +7,7 @@ title: Research
 
 ## Peer-Reviewed Journal Papers
 
-{% assign thumbnail="left" %}
+{% assign thumbnail="right" %}
 
 <p><strong><a href="https://doi.org/10.1073/pnas.2121675119"> Geographical Patterns of Social Cohesion Drive Disparities in Early COVID Infection Hazard</a></strong> (<em>PNAS</em> 2022)</p>
 {% include image.html url="../images/combMap.jpg" caption="" height="230px" align=thumbnail %}
