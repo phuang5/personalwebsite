@@ -29,7 +29,7 @@ I am also implementing codes, as extension of [ergm.count] package in R, for goo
 Email: peng.huang [at] uci.edu <br />
 [Google Scholar]  <br />
 [ORCID] <br />
-[LinkedIn]
+[LinkedIn] <br />
 [Twitter]
 
 
