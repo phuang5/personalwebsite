@@ -30,9 +30,11 @@ Email: peng.huang [at] uci.edu <br />
 [Google Scholar]  <br />
 [ORCID] <br />
 [LinkedIn]
+[Twitter]
 
 
 <!--Note: add [] back to NCASD and use research page of Carter once websites are back -->
+[Twitter]: https://twitter.com/PengHuangSoc
 [health disparity issues]: https://doi.org/10.1073/pnas.2121675119
 [modelling valued/weighted networks]: http://arxiv.org/abs/2111.02372
 [Sociology PhD candidate]: https://www.sociology.uci.edu/
