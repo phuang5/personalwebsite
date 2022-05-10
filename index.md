@@ -28,10 +28,10 @@ I am also implementing codes, as extension of [ergm.count] package in R, for goo
 
 Email: peng.huang [at] uci.edu <br />
 [Google Scholar]  <br />
-[ORCID] <br />
+[ResearchGate] <br />
 [LinkedIn] <br />
-[Twitter]
-
+[Twitter] <br />
+[ORCID] 
 
 <!--Note: add [] back to NCASD and use research page of Carter once websites are back -->
 [social and political cleavages behind immobility]: https://arxiv.org/abs/2205.02347
@@ -46,5 +46,6 @@ Email: peng.huang [at] uci.edu <br />
 [diffusion of infectious diseases]: https://doi.org/10.1073/pnas.2011656117
 [ergm.count]: https://cran.r-project.org/web/packages/ergm.count/index.html
 [LinkedIn]: https://www.linkedin.com/in/peng-huang-a1b4b9a4
+[ResearchGate]: https://www.researchgate.net/profile/Peng-Huang-21
 [ORCID]: https://orcid.org/0000-0001-5614-786X
 [Google Scholar]: https://scholar.google.com/citations?hl=en&user=Syb9tOAAAAAJ
