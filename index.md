@@ -29,9 +29,10 @@ I am also implementing codes, as extension of [ergm.count] package in R, for goo
 Email: peng.huang [at] uci.edu <br />
 [Google Scholar]  <br />
 [ResearchGate] <br />
+[ORCID] <br />
 [LinkedIn] <br />
-[Twitter] <br />
-[ORCID] 
+[Twitter] 
+ 
 
 <!--Note: add [] back to NCASD and use research page of Carter once websites are back -->
 [social and political cleavages behind immobility]: https://arxiv.org/abs/2205.02347
