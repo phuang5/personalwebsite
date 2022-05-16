@@ -10,7 +10,7 @@ I am a Sociology PhD candidate at University of California, Irvine, affiliated w
 
 Broadly interested in social relations and population dynamics, I take a relational and structural approach to studying social processes and people's experience therein. My dissertation examines how network dynamics and geopolitical conditions shape internal and international migration, such as the [social and political cleavages behind immobility] of Americans. My second line of research studies the spatial distribution of social relations, and its application in understanding the [diffusion of infectious diseases] such as COVID-19, and the related [health disparity issues]. <br />
 
-My methodological work mainly focuses on developing statistical and computational methods to model network relations and population structures (in dynamic and on a large scale). I study computational methods for [modelling valued/weighted networks], especially for large networks with high edge variance, under the framework of exponential-family random graph models (ERGMs). In another project, we employ loglinear models and simulated annealing for imputation of three-way array data, which can be applied to infer distributions of multiple demographic characteristics in small-areal units.
+My methodological work mainly focuses on developing statistical and computational methods to model network relations and population structures (in dynamic and on a large scale). I study computational methods for modelling valued/weighted networks, especially for large networks with high edge variance, under the framework of [exponential-family random graph models (ERGMs)]. In another project, we employ loglinear models and simulated annealing for imputation of three-way array data, which can be applied to infer distributions of multiple demographic characteristics in small-areal units.
 
 <!--
 My research is driven by interests in general questions about how people get along with each other in various social and geographical spaces: how we connect with our neighbors? what drives people to leave a place, and what holds on them to stay? where are people moving, and how new and old settlers of a place make sense of their relationships?
@@ -34,11 +34,11 @@ Email: peng.huang [at] uci.edu <br />
 [Twitter] 
  
 
-<!--Note: add [] back to NCASD and use research page of Carter once websites are back -->
 [social and political cleavages behind immobility]: https://arxiv.org/abs/2205.02347
 [Twitter]: https://twitter.com/PengHuangSoc
 [health disparity issues]: https://doi.org/10.1073/pnas.2121675119
-[modelling valued/weighted networks]: http://arxiv.org/abs/2111.02372
+<!--[modelling valued/weighted networks]-->
+[exponential-family random graph models (ERGMs)]: http://arxiv.org/abs/2111.02372
 [Sociology PhD candidate]: https://www.sociology.uci.edu/
 [Networks, Computation, and Social Dynamics Lab]: http://ncasd.org/index.html
 [Carter T. Butts]: http://www.carterbutts.com/index.html
