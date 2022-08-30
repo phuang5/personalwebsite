@@ -6,11 +6,11 @@ permalink: /
 
 {% include image.html url="images/Peng_19Winter.jpeg" caption="" width="300px" align="right" %}
 
-I am a Sociology PhD candidate and a Statistics MS student at University of California, Irvine, affiliated with the [Networks, Computation, and Social Dynamics Lab], advised by Professor [Carter T. Butts]. Before coming to UCI, I received bachelor's degrees in Sociology and Economics from [Peking University]. <br />
+I am a Sociology PhD candidate and a Statistics MS student at University of California, Irvine, affiliated with the <a href="http://ncasd.org/index.html" target="_blank" rel="noopener noreferrer">Networks, Computation, and Social Dynamics Lab</a>, advised by Professor <a href="http://www.carterbutts.com/index.html" target="_blank" rel="noopener noreferrer">Carter T. Butts</a>. Before coming to UCI, I received bachelor's degrees in Sociology and Economics from <a href="http://english.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Peking University</a>. <br />
 
-Broadly interested in social relations and population dynamics, I take a relational and structural approach to studying social processes and people's experience therein. My dissertation examines how network dynamics and geopolitical conditions shape internal and international migration, such as the [social and political cleavages behind immobility] of Americans. My second line of research studies the spatial distribution of social relations, and its application in understanding the <a href="https://doi.org/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer">diffusion of infectious diseases</a> such as COVID-19, and the related [health disparity issues]. <br />
+Broadly interested in social relations and population dynamics, I take a relational and structural approach to studying social processes and people's experience therein. My dissertation examines how network dynamics and geopolitical conditions shape internal and international migration, such as the <a href="https://arxiv.org/abs/2205.02347" target="_blank" rel="noopener noreferrer">social and political cleavages behind immobility</a> of Americans. My second line of research studies the spatial distribution of social relations, and its application in understanding the <a href="https://doi.org/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">diffusion of infectious diseases</a> such as COVID-19, and the related <a href="https://doi.org/10.1073/pnas.2011656117" target="_blank" rel="noopener noreferrer">health disparity issues</a>. <br />
 
-My methodological work mainly focuses on developing statistical and computational methods to model network relations and population structures (in dynamic and on a large scale). I study computational methods for modelling valued/weighted networks, especially for large networks with high edge variance, under the framework of [exponential-family random graph models (ERGMs)]. In another project, we employ loglinear models and simulated annealing for imputation of three-way array data, which can be applied to infer distributions of multiple demographic characteristics in small-areal units.
+My methodological work mainly focuses on developing statistical and computational methods to model network relations and population structures (in dynamic and on a large scale). I study computational methods for modelling valued/weighted networks, especially for large networks with high edge variance, under the framework of <a href="http://arxiv.org/abs/2111.02372" target="_blank" rel="noopener noreferrer">exponential-family random graph models (ERGMs)</a>. In another project, we employ loglinear models and simulated annealing for imputation of three-way array data, which can be applied to infer distributions of multiple demographic characteristics in small-areal units.
 
 <!--
 My research is driven by interests in general questions about how people get along with each other in various social and geographical spaces: how we connect with our neighbors? what drives people to leave a place, and what holds on them to stay? where are people moving, and how new and old settlers of a place make sense of their relationships?
@@ -27,11 +27,11 @@ I am also implementing codes, as extension of [ergm.count] package in R, for goo
 ## Contact
 
 Email: peng.huang [at] uci.edu <br />
-[Google Scholar]  <br />
-[ResearchGate] <br />
-[ORCID] <br />
-[LinkedIn] <br />
-[Twitter] 
+<a href="https://scholar.google.com/citations?hl=en&user=Syb9tOAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>  <br />
+<a href="https://www.researchgate.net/profile/Peng-Huang-21" target="_blank" rel="noopener noreferrer">ResearchGate</a> <br />
+<a href="https://orcid.org/0000-0001-5614-786X" target="_blank" rel="noopener noreferrer">ORCID</a> <br />
+<a href="https://www.linkedin.com/in/peng-huang-a1b4b9a4" target="_blank" rel="noopener noreferrer">LinkedIn</a> <br />
+<a href="https://twitter.com/PengHuangSoc" target="_blank" rel="noopener noreferrer">Twitter</a> 
  
 
 [social and political cleavages behind immobility]: https://arxiv.org/abs/2205.02347
