@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /research2/
+title: Research
+
+---
+
 <!DOCTYPE html>
 <html>
 <head>
