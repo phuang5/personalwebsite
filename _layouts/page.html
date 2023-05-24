@@ -5,15 +5,19 @@ layout: default
 <html>
 <head>
     <style>
-        .paper {
+         .paper {
             background-color: #FFF;
             padding: 20px;
             margin-bottom: 20px;
             box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+            overflow: auto; /* This is the clearfix for not aligning text and images*/
         }
         .paper img {
             max-width: 30%;
             height: auto;
+            float: right;
+            margin-left: 20px;
+            margin-bottom: 20px;
         }
         @media screen and (max-width: 767px) {
             .paper img {
