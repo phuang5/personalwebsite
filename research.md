@@ -12,7 +12,7 @@ title: Research
 
 <div class="paper">
         <p><strong><a href="https://doi.org/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer"> Geographical Patterns of Social Cohesion Drive Disparities in Early COVID Infection Hazard</a></strong> (<em>PNAS</em> 2022) <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer">[pdf]</a></p>
-	{% include image.html url="../images/combMap.jpg" caption="(A) Cohesion-related hazard in San Francisco <p>(B) Simulated infection time in San Francisco</p>" height="210px" align=thumbnail %}
+	{% include image.html url="../images/combMap.jpg" caption="(A) Cohesion-related hazard in San Francisco <p>(B) Simulated infection time in San Francisco</p>" height="220px" align=thumbnail %}
 	The uneven spread of COVID-19 has resulted in disparate experiences for marginalized populations in urban centers. Using computational models, we examine the effects of local cohesion on COVID-19 spread in social contact networks for the city of San Francisco, finding that more early COVID-19 infections occur in areas with strong local cohesion. This spatially correlated process tends to affect Black and Hispanic communities more than their Non-Hispanic White counterparts. Local social cohesion thus acts as a potential source of hidden risk for COVID-19 infection.
 </div>
 
@@ -33,7 +33,7 @@ title: Research
 
 <div class="paper">
 	<p><strong><a href="http://arxiv.org/abs/2111.02372" target="_blank" rel="noopener noreferrer"> Parameter Estimation Procedures for Exponential-Family Random Graph Models on Count-Valued Networks: A Comparative Simulation Study</a></strong> <a href="https://arxiv.org/pdf/2111.02372.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></p>
-	{% include image.html url="../images/EstimateValuedERGMsFig3.jpeg" caption="" height="450px" align=thumbnail %}
+	{% include image.html url="../images/EstimateValuedERGMsFig3.jpeg" caption="" height="460px" align=thumbnail %}
 	<p>The exponential-family random graph models (ERGMs) have emerged as an important framework for modeling social and other networks.  ERGMs for valued networks are less well-studied than their unvalued counterparts, and pose particular computational challenges. Networks with edge values on the non-negative integers (count-valued networks) are an important such case, with applications ranging from migration and trade flow data to data on frequency of interactions and encounters. Here, we propose an efficient maximum pseudo-likelihood estimation (MPLE) scheme for count-valued ERGMs, and compare its performance with existing Contrastive Divergence (CD) and Monte Carlo Maximum Likelihood Estimation (MCMLE) approaches via a simulation study based on migration flow networks in two U.S states.  Our results suggest that edge value variance is a key factor in method performance, with high-variance edges posing a particular challenge for CD.  MCMLE can work well but requires careful seeding in the high-variance case, and the MPLE itself performs well when edge variance is high.</p>
 </div>
 
