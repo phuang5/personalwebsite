@@ -14,9 +14,6 @@ layout: default
         .paper img {
             max-width: 30%;
             height: auto;
-            float: right;
-            margin-left: 20px;
-            margin-bottom: 20px;
         }
         @media screen and (max-width: 767px) {
             .paper img {
@@ -24,12 +21,6 @@ layout: default
                 float: none;
                 margin-left: 0;
             }
-        }
-        /* Clear float after the content */
-        .paper::after {
-            content: "";
-            display: table;
-            clear: both;
         }
     </style>
 </head>
