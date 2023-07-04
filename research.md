@@ -2,17 +2,14 @@
 layout: page
 permalink: /research/
 title: Research
-
 ---
-
-
 ## Peer-Reviewed Journal Papers
 
 {% assign thumbnail="right" %}
 
 <div class="paper">
-        <p><strong>Marginal-preserving Imputation of Three-way Array Data in Nested Structures, with Application to Small Areal Units</strong> (<em>Sociological Methodology</em> forthcoming)</p>
-	{% include image.html url="../images/CrosstabImputation.png" height="220px" align=thumbnail %}
+        <p><strong>Marginal-preserving Imputation of Three-way Array Data in Nested Structures, with Application to Small Areal Units</strong> (<em>Sociological Methodology</em>  forthcoming)</p>
+	{% include image.html url="../images/CrosstabImputation.png" height="210px" align=thumbnail %}
 	Geospatial population data is typically organized into nested hierarchies of areal units, in which each unit is a union of units at the next lower level. Despite increasing interest in analyses at fine geographical detail, these lowest rungs of the areal unit hierarchy are often incompletely tabulated due to cost, privacy, or other considerations. We introduce a novel algorithm to impute crosstabs of up to three dimensions (e.g., race, ethnicity, and sex) from marginal data combined with data at higher levels of aggregation. Our method exactly preserves the observed fine-grained marginals, while approximating higher-order correlations observed in more complete higher-level data. We show how this approach can be used with U.S. Census data via a case study involving differences in exposure to crime across demographic groups, showing that the imputation process introduces very little error into downstream analysis, while depicting social process at the more fine-grained level.
 </div>
 
