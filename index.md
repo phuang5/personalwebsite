@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/Peng_19Winter.jpeg" caption="" width="300px" align="right" %}
+{% include image.html url="images/Peng_19Winter.jpeg" caption="" width="320px" align="right" %}
 
 I am a Sociology PhD candidate and a Statistics MS candidate at University of California, Irvine, affiliated with the <a href="http://ncasd.org/index.html" target="_blank" rel="noopener noreferrer">Networks, Computation, and Social Dynamics Lab</a>, advised by Professor <a href="http://www.carterbutts.com/index.html" target="_blank" rel="noopener noreferrer">Carter T. Butts</a>. Before coming to UCI, I received bachelor's degrees in Sociology and Economics from <a href="http://english.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Peking University</a>. <br />
 
