@@ -11,6 +11,12 @@ title: Research
 {% assign thumbnail="right" %}
 
 <div class="paper">
+        <p><strong>Marginal-preserving Imputation of Three-way Array Data in Nested Structures, with Application to Small Areal Units</strong> (<em>Sociological Methodology</em> forthcoming)</p>
+	{% include image.html url="../images/CrosstabImputation.png" height="220px" align=thumbnail %}
+	Geospatial population data is typically organized into nested hierarchies of areal units, in which each unit is a union of units at the next lower level. Despite increasing interest in analyses at fine geographical detail, these lowest rungs of the areal unit hierarchy are often incompletely tabulated due to cost, privacy, or other considerations. We introduce a novel algorithm to impute crosstabs of up to three dimensions (e.g., race, ethnicity, and sex) from marginal data combined with data at higher levels of aggregation. Our method exactly preserves the observed fine-grained marginals, while approximating higher-order correlations observed in more complete higher-level data. We show how this approach can be used with U.S. Census data via a case study involving differences in exposure to crime across demographic groups, showing that the imputation process introduces very little error into downstream analysis, while depicting social process at the more fine-grained level.
+</div>
+
+<div class="paper">
         <p><strong><a href="https://doi.org/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer"> Geographical Patterns of Social Cohesion Drive Disparities in Early COVID Infection Hazard</a></strong> (<em>PNAS</em> 2022) <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer">[pdf]</a></p>
 	{% include image.html url="../images/combMap.jpg" caption="(A) Cohesion-related hazard in San Francisco <p>(B) Simulated infection time in San Francisco</p>" height="220px" align=thumbnail %}
 	The uneven spread of COVID-19 has resulted in disparate experiences for marginalized populations in urban centers. Using computational models, we examine the effects of local cohesion on COVID-19 spread in social contact networks for the city of San Francisco, finding that more early COVID-19 infections occur in areas with strong local cohesion. This spatially correlated process tends to affect Black and Hispanic communities more than their Non-Hispanic White counterparts. Local social cohesion thus acts as a potential source of hidden risk for COVID-19 infection.
