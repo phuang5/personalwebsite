@@ -7,6 +7,17 @@ title: Research
 
 {% assign thumbnail="right" %}
 
+<div class="paper">
+	<p><strong><a href="http://arxiv.org/abs/2111.02372" target="_blank" rel="noopener noreferrer"> Parameter Estimation Procedures for Exponential-Family Random Graph Models on Count-Valued Networks: A Comparative Simulation Study</a></strong> (<em>Social Networks</em> &nbsp; forthcoming)</p>
+	{% include image.html url="../images/EstimateValuedERGMsFig5.png" caption="" height="400px" align=thumbnail %}
+	<p>
+	Computation remains a hurdle for analysis of valued networks using ERGMs. We implement an efficient parallelable subsampled Maximum Pseudo-Likelihood Estimation (MPLE) method, and evaluate estimation quality and speed of MPLE, Contrastive Divergence (CD), and Monte Carlo Maximum Likelihood Estimation (MCMLE). Simulation study shows that edge value variance is a key factor in method performance, while network size mainly influences their relative merits in computational time. We offer a guideline for choosing and tuning computational methods for Valued ERGM estimation.</p>
+</div>
+
+<!--
+<a href="https://arxiv.org/pdf/2111.02372.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
+-->
+
 <!--
 <div class="paper">
         <p><strong>Marginal-preserving Imputation of Three-way Array Data in Nested Structures, with Application to Small Areal Units</strong> (<em>Sociological Methodology</em> &nbsp; forthcoming)</p>
@@ -34,11 +45,5 @@ title: Research
 	{% include image.html url="../images/RelationalApproach22.jpg" caption="Figure 1: Marginal approach versus relational approach" height="278px" align="left" %}
 	{% include image.html url="../images/PoliAllFig.jpg" caption="Figure 2: Immobility from political division" height="278px" align="right" %}
 	Despite the popular narrative that the United States is a "land of mobility," its internal migration rates have declined for decades, and reached a historical low. Economic and related factors were able to account for a portion of this trend, but the bulk has remained unexplained. Here, we propose a systemic, relational model of internal migration in the U.S., combining demographic, economic, political, and geographical factors with endogenous social mechanisms, with the objective of identifying factors limiting migration rates. We implement this model using valued temporal exponential-family random graph models, allowing us to calibrate it to the (valued) network of intercounty U.S. migration flows during the 2011-2015 period. Our analysis reveals a pattern of segmented immobility, where fewer people migrate between counties with dissimilar political contexts, levels of urbanization, and racial compositions. Probing our model using "knockout" experiments suggests that one would have observed approximately 3 million (17%) more intercounty migrants over the study period were the segmented immobility mechanisms inoperative. This analysis suggests that internal migration in the current era is driven not only by demographic and economic factors, but also cultural and political ones. It also reveals social and political cleavages that underlie geographical immobility in America.
-</div>
-
-<div class="paper">
-	<p><strong><a href="http://arxiv.org/abs/2111.02372" target="_blank" rel="noopener noreferrer"> Parameter Estimation Procedures for Exponential-Family Random Graph Models on Count-Valued Networks: A Comparative Simulation Study</a></strong> <a href="https://arxiv.org/pdf/2111.02372.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></p>
-	{% include image.html url="../images/EstimateValuedERGMsFig3.jpeg" caption="" height="455px" align=thumbnail %}
-	<p>The exponential-family random graph models (ERGMs) have emerged as an important framework for modeling social and other networks.  ERGMs for valued networks are less well-studied than their unvalued counterparts, and pose particular computational challenges. Networks with edge values on the non-negative integers (count-valued networks) are an important such case, with applications ranging from migration and trade flow data to data on frequency of interactions and encounters. Here, we propose an efficient maximum pseudo-likelihood estimation (MPLE) scheme for count-valued ERGMs, and compare its performance with existing Contrastive Divergence (CD) and Monte Carlo Maximum Likelihood Estimation (MCMLE) approaches via a simulation study based on migration flow networks in two U.S states.  Our results suggest that edge value variance is a key factor in method performance, with high-variance edges posing a particular challenge for CD.  MCMLE can work well but requires careful seeding in the high-variance case, and the MPLE itself performs well when edge variance is high.</p>
 </div>
 
