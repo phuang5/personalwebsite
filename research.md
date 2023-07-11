@@ -10,7 +10,7 @@ title: Research
 <div class="paper">
 	<p><strong><a href="http://arxiv.org/abs/2111.02372" target="_blank" rel="noopener noreferrer"> Parameter Estimation Procedures for Exponential-Family Random Graph Models on Count-Valued Networks: A Comparative Simulation Study</a></strong> (<em>Social Networks</em> &nbsp; forthcoming)</p>
 	{% include image.html url="../images/EstimateValuedERGMsFig5.png" caption="" height="235px" align=thumbnail %}
-	Computation remains a hurdle for analysis of valued networks using ERGMs. We implement an efficient parallelable subsampled Maximum Pseudo-Likelihood Estimation (MPLE) method, and evaluate estimation quality and speed of MPLE, Contrastive Divergence (CD), and Monte Carlo Maximum Likelihood Estimation (MCMLE). Simulation study shows that edge value variance is a key factor in method performance, while network size mainly influences their relative merits in computational time. We offer a guideline for choosing and tuning computational methods for Valued ERGM estimation.
+	Computation remains a hurdle for analysis of valued networks using exponential-family random graph models (ERGMs). We implement an efficient parallelable subsampled Maximum Pseudo-Likelihood Estimation (MPLE) method. We then perform a comparative simulation study to evaluate estimation quality and speed of MPLE, Contrastive Divergence (CD), and Monte Carlo Maximum Likelihood Estimation (MCMLE). Results show that edge value variance is a key factor in method performance, while network size mainly influences their relative merits in computational time. The paper concludes with a guideline for choosing and tuning computational methods for valued ERGM estimation.
 </div>
 
 <!--
