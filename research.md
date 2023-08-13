@@ -8,7 +8,13 @@ title: Research
 {% assign thumbnail="right" %}
 
 <div class="paper">
-	<p><strong><a href="https://doi.org/10.1016/j.socnet.2023.07.001" target="_blank" rel="noopener noreferrer"> Parameter Estimation Procedures for Exponential-Family Random Graph Models on Count-Valued Networks: A Comparative Simulation Study</a></strong> (<em>Social Networks</em> 2024)</p>
+	<p><strong><a href="https://doi.org/10.1016/j.socnet.2023.07.001" target="_blank" rel="noopener noreferrer">California Exodus? A Network Model of Population Redistribution in the United States</a></strong> (<em>Journal of Mathematical Sociology</em>&nbsp; In press)</p>
+	{% include image.html url="../images/CAExodus.png" caption="" height="280px" align=thumbnail %}
+	Motivated by debates about California's net migration loss, we employ valued exponential-family random graph models to analyze the inter-county migration flow networks in the United States. We introduce a protocol that visualizes the complex effects of potential underlying mechanisms, and perform <em>knockout experiments</em> to quantify their contribution to the California Exodus. We find that racial dynamics contribute to the California Exodus, urbanization ameliorates it, and political climate and housing costs have little impact. Moreover, the severity of the California Exodus depends on how one measures it, and California is not the state with the most substantial population loss. The paper demonstrates how generative statistical models can provide mechanistic insights beyond simple hypothesis-testing.
+</div>
+
+<div class="paper">
+	<p><strong><a href="https://doi.org/10.1016/j.socnet.2023.07.001" target="_blank" rel="noopener noreferrer">Parameter Estimation Procedures for Exponential-Family Random Graph Models on Count-Valued Networks: A Comparative Simulation Study</a></strong> (<em>Social Networks</em> 2024)</p>
 	{% include image.html url="../images/EstimateValuedERGMsFig5.png" caption="" height="280px" align=thumbnail %}
 	Computation remains a hurdle for analysis of valued networks using exponential-family random graph models (ERGMs). We implement an efficient parallelable subsampled Maximum Pseudo-Likelihood Estimation (MPLE) method. We then perform a comparative simulation study to evaluate estimation quality and speed of MPLE, Contrastive Divergence (CD), and Monte Carlo Maximum Likelihood Estimation (MCMLE). Results show that edge value variance is a key factor in method performance, while network size mainly influences their relative merits in computational time. The paper concludes with a guideline for choosing and tuning computational methods for valued ERGM estimation.
 </div>
@@ -30,7 +36,7 @@ small skip for forthcoming: &nbsp; forthcoming
 
 
 <div class="paper">
-        <p><strong><a href="https://doi.org/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer"> Geographical Patterns of Social Cohesion Drive Disparities in Early COVID Infection Hazard</a></strong> (<em>PNAS</em> 2022)</p>
+        <p><strong><a href="https://doi.org/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer">Geographical Patterns of Social Cohesion Drive Disparities in Early COVID Infection Hazard</a></strong> (<em>PNAS</em> 2022)</p>
 	{% include image.html url="../images/combMap.jpg" caption="(A) Cohesion-related hazard in San Francisco <p>(B) Simulated infection time in San Francisco</p>" height="220px" align=thumbnail %}
 	The uneven spread of COVID-19 has resulted in disparate experiences for marginalized populations in urban centers. Using computational models, we examine the effects of local cohesion on COVID-19 spread in social contact networks for the city of San Francisco, finding that more early COVID-19 infections occur in areas with strong local cohesion. This spatially correlated process tends to affect Black and Hispanic communities more than their Non-Hispanic White counterparts. Local social cohesion thus acts as a potential source of hidden risk for COVID-19 infection.
 </div>
