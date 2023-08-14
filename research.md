@@ -7,13 +7,13 @@ title: Research
 {% assign thumbnail="right" %}
 <div class="paper">
 	<p><strong><a href="https://doi.org/10.1016/j.socnet.2023.07.001" target="_blank" rel="noopener noreferrer">California Exodus? A Network Model of Population Redistribution in the United States</a></strong> (<em>Journal of Mathematical Sociology</em>&nbsp; In press)</p>
-	{% include image.html url="../images/CAExodus.png" caption="" height="330px" align=thumbnail %}
+	{% include image.html url="../images/CAExodus.png" caption="" height="340px" align=thumbnail %}
 	Motivated by debates about California's net migration loss, we employ valued exponential-family random graph models to analyze the inter-county migration flow networks in the United States. We introduce a protocol that visualizes the complex effects of potential underlying mechanisms, and perform <em>knockout experiments</em> to quantify their contribution to the California Exodus. We find that racial dynamics contribute to the California Exodus, urbanization ameliorates it, and political climate and housing costs have little impact. Moreover, the severity of the California Exodus depends on how one measures it, and California is not the state with the most substantial population loss. The paper demonstrates how generative statistical models can provide mechanistic insights beyond simple hypothesis-testing.
 </div>
 
 <div class="paper">
 	<p><strong><a href="https://doi.org/10.1016/j.socnet.2023.07.001" target="_blank" rel="noopener noreferrer">Parameter Estimation Procedures for Exponential-Family Random Graph Models on Count-Valued Networks: A Comparative Simulation Study</a></strong> (<em>Social Networks</em> 2024)</p>
-	{% include image.html url="../images/EstimateValuedERGMsFig5.png" caption="" height="275px" align=thumbnail %}
+	{% include image.html url="../images/EstimateValuedERGMsFig5.png" caption="" height="285px" align=thumbnail %}
 	Computation remains a hurdle for analysis of valued networks using exponential-family random graph models (ERGMs). We implement an efficient parallelable subsampled Maximum Pseudo-Likelihood Estimation (MPLE) method. We then perform a comparative simulation study to evaluate estimation quality and speed of MPLE, Contrastive Divergence (CD), and Monte Carlo Maximum Likelihood Estimation (MCMLE). Results show that edge value variance is a key factor in method performance, while network size mainly influences their relative merits in computational time. The paper concludes with a guideline for choosing and tuning computational methods for valued ERGM estimation.
 </div>
 
