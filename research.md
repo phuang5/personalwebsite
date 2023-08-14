@@ -3,11 +3,11 @@ layout: page
 permalink: /research/
 title: Research
 ---
-## Peer-Reviewed Journal Papers
+### Peer-Reviewed Journal Papers
 {% assign thumbnail="right" %}
 <div class="paper">
 	<p><strong><a href="https://doi.org/10.1016/j.socnet.2023.07.001" target="_blank" rel="noopener noreferrer">California Exodus? A Network Model of Population Redistribution in the United States</a></strong> (<em>Journal of Mathematical Sociology</em>&nbsp; In press)</p>
-	{% include image.html url="../images/CAExodus.png" caption="" height="230px" align=thumbnail %}
+	{% include image.html url="../images/CAExodus.png" caption="" height="300px" align=thumbnail %}
 	Motivated by debates about California's net migration loss, we employ valued exponential-family random graph models to analyze the inter-county migration flow networks in the United States. We introduce a protocol that visualizes the complex effects of potential underlying mechanisms, and perform <em>knockout experiments</em> to quantify their contribution to the California Exodus. We find that racial dynamics contribute to the California Exodus, urbanization ameliorates it, and political climate and housing costs have little impact. Moreover, the severity of the California Exodus depends on how one measures it, and California is not the state with the most substantial population loss. The paper demonstrates how generative statistical models can provide mechanistic insights beyond simple hypothesis-testing.
 </div>
 
@@ -45,7 +45,7 @@ small skip for forthcoming: &nbsp; forthcoming
 	Standard epidemiological models for COVID-19 employ variants of compartment (SIR) models at local scales, implicitly assuming spatially uniform local mixing. Using a diffusion model based on interpersonal contact networks, this paper shows that the spread of COVID-19 has distinct timing and severity across different parts of a city. The paper demonstrates that spatial heterogeneity can produce dramatic differences in social exposures to those with the illness, and stress local healthcare systems differently in timing and extremity.
 </div>
 
-## Working Papers
+### Working Papers
 
 <div class="paper">
 	<p><strong><a href="https://arxiv.org/abs/2205.02347" target="_blank" rel="noopener noreferrer"> Rooted America: Immobility and Segregation of the Inter-county Migration Networks</a></strong></p>
