@@ -3,8 +3,14 @@ layout: page
 permalink: /research/
 title: Research
 ---
-## Peer-Reviewed Journal Papers
 {% assign thumbnail="right" %}
+<div class="paper">
+	<p><strong>Rooted America: Immobility and Segregation of the Inter-county Migration Networks</strong> (<em>American Sociological Review</em>&nbsp; In press)</p>
+	{% include image.html url="../images/RelationalApproach22.jpg" caption="Figure 1: Marginal approach versus relational approach" height="278px" align="left" %}
+	{% include image.html url="../images/PoliAllFig.jpg" caption="Figure 2: Immobility from political division" height="278px" align="right" %}
+	Despite the popular narrative that the United States is a "land of mobility," the country may have become a "rooted America" after a decades-long decline in migration rates. This paper interrogates the lingering question about the social forces that limit migration, with the empirical focus on the internal migration in the United States. We propose a systemic, network model of migration flows, combining demographic, economic, political, geographical factors and network dependence structures that reflect the internal dynamics of migration systems. Using valued temporal exponential-family random graph models, we model the network of inter-county migration flows during the 2011-2015 period. Our analysis reveals a pattern of segmented immobility, where fewer people migrate between counties with dissimilar political contexts, levels of urbanization, and racial compositions. Probing our model using "knockout experiments" suggests that one would have observed approximately 4.6 million (27%) more inter-county migrants each year were the segmented immobility mechanisms inoperative. The paper offers a systemic view of internal migration and reveals the social and political cleavages that underlie geographical immobility in America.
+</div>
+
 <div class="paper">
 	<p><strong><a href="https://arxiv.org/abs/2308.06465" target="_blank" rel="noopener noreferrer">California Exodus? A Network Model of Population Redistribution in the United States</a></strong> (<em>Journal of Mathematical Sociology</em>&nbsp; In press)</p>
 	{% include image.html url="../images/CAExodus.png" caption="" height="340px" align=thumbnail %}
@@ -17,7 +23,12 @@ title: Research
 	Computation remains a hurdle for analysis of valued networks using exponential-family random graph models (ERGMs). We implement an efficient parallelable subsampled Maximum Pseudo-Likelihood Estimation (MPLE) method. We then perform a comparative simulation study to evaluate estimation quality and speed of MPLE, Contrastive Divergence (CD), and Monte Carlo Maximum Likelihood Estimation (MCMLE). Results show that edge value variance is a key factor in method performance, while network size mainly influences their relative merits in computational time. The paper concludes with a guideline for choosing and tuning computational methods for valued ERGM estimation.
 </div>
 
+
 <!--
+	## Peer-Reviewed Journal Papers
+	## Working Papers
+<a href="https://arxiv.org/abs/2205.02347" target="_blank" rel="noopener noreferrer"> 
+
 small skip for forthcoming: &nbsp; forthcoming
  <a href="https://arxiv.org/pdf/2111.02372.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
  <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer">[pdf]</a>
@@ -45,12 +56,7 @@ small skip for forthcoming: &nbsp; forthcoming
 	Standard epidemiological models for COVID-19 employ variants of compartment (SIR) models at local scales, implicitly assuming spatially uniform local mixing. Using a diffusion model based on interpersonal contact networks, this paper shows that the spread of COVID-19 has distinct timing and severity across different parts of a city. The paper demonstrates that spatial heterogeneity can produce dramatic differences in social exposures to those with the illness, and stress local healthcare systems differently in timing and extremity.
 </div>
 
-## Working Papers
 
-<div class="paper">
-	<p><strong><a href="https://arxiv.org/abs/2205.02347" target="_blank" rel="noopener noreferrer"> Rooted America: Immobility and Segregation of the Inter-county Migration Networks</a></strong></p>
-	{% include image.html url="../images/RelationalApproach22.jpg" caption="Figure 1: Marginal approach versus relational approach" height="278px" align="left" %}
-	{% include image.html url="../images/PoliAllFig.jpg" caption="Figure 2: Immobility from political division" height="278px" align="right" %}
-	Despite the popular narrative that the United States is a "land of mobility," its internal migration rates have declined for decades, and reached a historical low. Economic and related factors were able to account for a portion of this trend, but the bulk has remained unexplained. Here, we propose a systemic, relational model of internal migration in the U.S., combining demographic, economic, political, and geographical factors with endogenous social mechanisms, with the objective of identifying factors limiting migration rates. We implement this model using valued temporal exponential-family random graph models, allowing us to calibrate it to the (valued) network of intercounty U.S. migration flows during the 2011-2015 period. Our analysis reveals a pattern of segmented immobility, where fewer people migrate between counties with dissimilar political contexts, levels of urbanization, and racial compositions. Probing our model using "knockout" experiments suggests that one would have observed approximately 3 million (17%) more intercounty migrants over the study period were the segmented immobility mechanisms inoperative. This analysis suggests that internal migration in the current era is driven not only by demographic and economic factors, but also cultural and political ones. It also reveals social and political cleavages that underlie geographical immobility in America.
-</div>
+
+
 
