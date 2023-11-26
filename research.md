@@ -12,7 +12,7 @@ title: Research
 </div>
 
 <div class="paper">
-	<p><strong><a href="https://arxiv.org/abs/2308.06465" target="_blank" rel="noopener noreferrer">California Exodus? A Network Model of Population Redistribution in the United States</a></strong> (<em>Journal of Mathematical Sociology</em>&nbsp; In press)</p>
+	<p><strong><a href="https://doi.org/10.1080/0022250X.2023.2284431" target="_blank" rel="noopener noreferrer">California Exodus? A Network Model of Population Redistribution in the United States</a></strong> (<em>Journal of Mathematical Sociology</em>& 2023)</p>
 	{% include image.html url="../images/CAExodus.png" caption="" height="340px" align=thumbnail %}
 	Motivated by debates about California's net migration loss, we employ valued exponential-family random graph models to analyze the inter-county migration flow networks in the United States. We introduce a protocol that visualizes the complex effects of potential underlying mechanisms, and perform <em>knockout experiments</em> to quantify their contribution to the California Exodus. We find that racial dynamics contribute to the California Exodus, urbanization ameliorates it, and political climate and housing costs have little impact. Moreover, the severity of the California Exodus depends on how one measures it, and California is not the state with the most substantial population loss. The paper demonstrates how generative statistical models can provide mechanistic insights beyond simple hypothesis-testing.
 </div>
