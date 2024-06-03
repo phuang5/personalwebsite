@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/Peng_19Winter.jpeg" caption="" width="280px" align="right" %}
+{% include image.html url="images/HUANG.jpeg" caption="" width="280px" align="right" %}
 
 Peng Huang is an incoming Assistant Professor of Sociology at the <a href="http://sociology.uga.edu" target="_blank" rel="noopener noreferrer">University of Georgia</a> starting Fall 2024. He received his PhD in Sociology and an MS in Statistics from the <a href="http://www.sociology.uci.edu" target="_blank" rel="noopener noreferrer">University of California, Irvine</a>, trained in the <a href="http://ncasd.org" target="_blank" rel="noopener noreferrer">Networks, Computation, and Social Dynamcis Lab</a>. He also holds BAs in Sociology and Economics from <a href="http://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a>.<br />
 
