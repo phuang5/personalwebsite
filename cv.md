@@ -15,6 +15,12 @@ permalink: /cv/
 {% include embedpdf.html source="cv/Peng_Huang_CV.pdf" width=100 height=800 %}
 {% endcomment %}
 
-{% include embedpdf.html source="http://penghuang.me/cv/Peng_Huang_CV.pdf" width=100 height=800 %}
+<iframe 
+   src="http://docs.google.com/viewer?url=penghuang.me/cv/Peng_Huang_CV.pdf&hl=en_US&embedded=true" 
+   style="width:100%; 
+   height:800px; 
+   border:0;" 
+   scrolling="no">
+   </iframe>
 
 
