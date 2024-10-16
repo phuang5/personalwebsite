@@ -15,7 +15,7 @@ permalink: /cv/
 {% include embedpdf.html source="cv/Peng_Huang_CV.pdf" width=100 height=800 %}
 {% endcomment %}
 
-<iframe src="https://example.com/file.pdf" width="100%" height="800px">
+<iframe src="http://penghuang.me/cv/Peng_Huang_CV.pdf" width="100%" height="800px">
    Your browser does not support iframes. Please click the hyperlink above.
 </iframe>
 
