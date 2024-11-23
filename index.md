@@ -40,7 +40,7 @@ I am also implementing codes, as extension of [ergm.count] package in R, for goo
 ## Contact
 
 Email: peng.huang [at] uga.edu <br />
-<a href="https://scholar.google.com/citations?hl=en&user=Syb9tOAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>  <br />
+<a href="https://scholar.google.com/citations?user=rttfGGkAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>  <br />
 <a href="https://www.researchgate.net/profile/Peng-Huang-21" target="_blank" rel="noopener noreferrer">ResearchGate</a> <br />
 <a href="https://orcid.org/0000-0001-5614-786X" target="_blank" rel="noopener noreferrer">ORCID</a> <br />
 <a href="https://www.linkedin.com/in/peng-huang-a1b4b9a4" target="_blank" rel="noopener noreferrer">LinkedIn</a> <br />
