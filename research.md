@@ -5,6 +5,13 @@ title: Research
 ---
 {% assign thumbnail="right" %}
 <div class="paper">
+	<p><strong><a href="https://doi.org/10.1080/0022250X.2023.2284431" target="_blank" rel="noopener noreferrer">Endogenous Competition and the Under-realized Reproduction of Infectious Diseases</a></strong> (<em>PNAS</em>&nbsp; 2025)</p>
+	{% include image.html url="../images/Explainer_sp.png" caption="" height="340px" align=thumbnail %}
+	Our understanding and policy decisions regarding evolving pandemics are often driven by the measure of transmissibility known as R<sub>0</sub>. By contextualizing the disease diffusion process with novel R metrics that leverage heterogeneous and clustered social network properties, we identify influential mechanisms that have not yet been incorporated in extant metrics and analyses. Specifically, we demonstrate that a disease can endogenously "compete" with itself when multiple infectious individuals race to infect the same susceptible, undermining its transmissibility. An empirically-calibrated model shows that this mechanism reduces the reproductive rate of early-pandemic COVID-19 by an average of 39%. We further characterize and quantify the effect sizes of different variations of endogenous competition mechanisms, paving the way to a more realistic disease reproduction model.
+</div>
+
+
+<div class="paper">
 	<p><strong><a href="https://doi.org/10.1080/0022250X.2023.2284431" target="_blank" rel="noopener noreferrer">California Exodus? A Network Model of Population Redistribution in the United States</a></strong> (<em>Journal of Mathematical Sociology</em>&nbsp; 2024)</p>
 	{% include image.html url="../images/CAExodus.png" caption="" height="340px" align=thumbnail %}
 	Motivated by debates about California's net migration loss, we employ valued exponential-family random graph models to analyze the inter-county migration flow networks in the United States. We introduce a protocol that visualizes the complex effects of potential underlying mechanisms, and perform <em>knockout experiments</em> to quantify their contribution to the California Exodus. We find that racial dynamics contribute to the California Exodus, urbanization ameliorates it, and political climate and housing costs have little impact. Moreover, the severity of the California Exodus depends on how one measures it, and California is not the state with the most substantial population loss. The paper demonstrates how generative statistical models can provide mechanistic insights beyond simple hypothesis-testing.
