@@ -5,9 +5,9 @@ title: Research
 ---
 {% assign thumbnail="right" %}
 <div class="paper">
-	<p><strong><a href="https://doi.org/10.1080/0022250X.2023.2284431" target="_blank" rel="noopener noreferrer">Endogenous Competition and the Under-realized Reproduction of Infectious Diseases</a></strong> (<em>PNAS</em>&nbsp; 2025)</p>
-	{% include image.html url="../images/Explainer_sp.png" caption="" height="340px" align=thumbnail %}
-	Our understanding and policy decisions regarding evolving pandemics are often driven by the measure of transmissibility known as R<sub>0</sub>. By contextualizing the disease diffusion process with novel R metrics that leverage heterogeneous and clustered social network properties, we identify influential mechanisms that have not yet been incorporated in extant metrics and analyses. Specifically, we demonstrate that a disease can endogenously "compete" with itself when multiple infectious individuals race to infect the same susceptible, undermining its transmissibility. An empirically-calibrated model shows that this mechanism reduces the reproductive rate of early-pandemic COVID-19 by an average of 39%. We further characterize and quantify the effect sizes of different variations of endogenous competition mechanisms, paving the way to a more realistic disease reproduction model.
+	<p><strong><a href="https://doi.org/10.1073/pnas.2502676122" target="_blank" rel="noopener noreferrer">Endogenous Competition and the Underrealized Reproduction of Infectious Diseases</a></strong> (<em>PNAS</em>&nbsp; 2025)</p>
+	{% include image.html url="../images/Explainer_sp.png" caption="" height="250px" align=thumbnail %}
+	Our understanding and policy decisions regarding evolving epidemics are often driven by measures of transmissibility, particularly reproduction numbers. By contextualizing the disease diffusion process with multiple reproduction numbers that leverage heterogeneous and clustered social network properties, we identify influential mechanisms that have not yet been incorporated in extant metrics and analyses. Specifically, we demonstrate that a disease can endogenously "compete" with itself when multiple infectious individuals race to infect the same susceptible, undermining its transmissibility. An empirically-calibrated model shows that this mechanism reduces the reproductive rate of early-pandemic COVID-19 by an average of 39%. We further characterize and quantify the effect sizes of different variations of endogenous competition mechanisms, paving the way to a more realistic disease reproduction model.
 </div>
 
 
