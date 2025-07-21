@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
- [Download PDF](cv/Peng_Huang_CV.pdf)  (last updated: June 2025)
+ [Download PDF](cv/Peng_Huang_CV.pdf)  (last updated: July 2025)
 
  <!--
  The PDF should be embedded underneath -- uses Google Docs for embedding and works if the PDF is on dropbox. Works sporadically if PDF is elsewhere too.
