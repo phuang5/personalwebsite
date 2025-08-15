@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-<a href="cv/Peng_Huang_CV.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
+<a href="Peng_Huang_CV.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
    
 
  <!--
