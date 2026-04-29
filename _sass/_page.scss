@@ -31,6 +31,22 @@
     margin-bottom: $spacing-unit * 0.8;
 }
 
+.post dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    column-gap: 1.25em;
+    row-gap: $spacing-unit * 0.8;
+    align-items: baseline;
+}
+
+.post dt {
+    font-weight: bold;
+}
+
+.post dd {
+    margin: 0;
+}
+
 .post h1, h2, h3, h4, h5, h6 {
     margin-top:    $spacing-unit * 0.3;
     margin-bottom: $spacing-unit * 0.15;
