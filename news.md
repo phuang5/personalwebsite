@@ -5,13 +5,13 @@ title: News
 ---
 
 **Apr 2026**
-: I gave a research presentation at the [Institute of Behavioral Science](https://ibs.colorado.edu/event/ibs-speaker-series-peng-huang/){:target="_blank" rel="noopener noreferrer"}, University of Colorado, Boulder.
+: I gave a research [presentation](https://ibs.colorado.edu/event/ibs-speaker-series-peng-huang/){:target="_blank" rel="noopener noreferrer"} at the Institute of Behavioral Science, University of Colorado, Boulder.
 
 **Mar 2026**
-: I gave a research presentation at the [Cornell Population Center](https://publicpolicy.cornell.edu/events/the-demography-of-staying-probing-the-decline-of-domestic-migration-in-the-united-states/){:target="_blank" rel="noopener noreferrer"}, Cornell University.
+: I gave a research [presentation](https://publicpolicy.cornell.edu/events/the-demography-of-staying-probing-the-decline-of-domestic-migration-in-the-united-states/){:target="_blank" rel="noopener noreferrer"} at the Cornell Population Center, Cornell University.
 
 **Mar 2026**
-: I shared my research with colleagues at the [Center for the Ecology of Infectious Diseases](https://ceid.uga.edu){:target="_blank" rel="noopener noreferrer"}, University of Georgia.
+: I shared my research about network models for infectious disease diffusion at the [Center for the Ecology of Infectious Diseases](https://ceid.uga.edu){:target="_blank" rel="noopener noreferrer"}, University of Georgia.
 
 **Jan 2026**
 : I gave a research presentation at the Joint Online Seminar Series of the ASA Decision-Making, Social Networks, and Society Section & ISA Research Committee on Micro-Macro Modelling.
