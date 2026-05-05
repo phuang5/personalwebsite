@@ -15,31 +15,6 @@ Huang’s methodological work concentrates on developing mathematical, statistic
 
 Huang is a recipient of the Outstanding Publication Award and the Dissertation Award from the Mathematical Sociology Section of the American Sociological Association, and the Best Student Paper Award from the International Network for Social Network Analysis. His research articles have appeared in <em><a href="https://doi.org/10.1177/00031224231212679" target="_blank" rel="noopener noreferrer">American Sociological Review</a></em>, <em><a href="https://doi.org/10.1080/0022250X.2023.2284431" target="_blank" rel="noopener noreferrer">Journal of Mathematical Sociology</a></em>, <em><a href="https://doi.org/10.1073/pnas.2502676122" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">Proceedings of the National Academy of Sciences</a> <a href="https://doi.org/10.1073/pnas.2011656117" target="_blank" rel="noopener noreferrer">(PNAS)</a></em>, <a href="https://doi.org/10.1016/j.socnet.2023.07.001" target="_blank" rel="noopener noreferrer"><em>Social Networks</em></a>, and <a href="https://doi.org/10.1177/00811750231203218" target="_blank" rel="noopener noreferrer"><em>Sociological Methodology</em></a>.
 
-<!--
-He develops and applies computational and statistical methods to understand the interactions among population, space, and soceity. His first line of research examines the political demography of migration, including the population immobility in the United States, the "California Exodus." His another line of research focuses on the network diffusion mechanisms, using them to unravel the pattern of infectious disease outbreak and health disparity. Huang's methodological works include developing computational methods for the exponential-family random graph models (ERGMs), a popular network model framework, and imputational methods for small areal unit data.
-
-
-
-	a dissertation award and paper awards from the American Sociological Association and the International Network of Social Network Analysis
-	a dissertation award, a best paper award, a best student paper award, and honorable mentions for an outstanding publication award and an outstanding student paper award
-Sociology PhD candidate and a Statistics MS candidate at the University of California, Irvine, affiliated with the <a href="http://ncasd.org/index.html" target="_blank" rel="noopener noreferrer">Networks, Computation, and Social Dynamics Lab</a>, advised by Professor <a href="http://www.carterbutts.com/index.html" target="_blank" rel="noopener noreferrer">Carter T. Butts</a>. Before coming to UCI, I received bachelor's degrees in Sociology and Economics from <a href="http://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a>. I will join the <a href="http://sociology.uga.edu" target="_blank" rel="noopener noreferrer">University of Georgia</a> as an Assistant Professor of Sociology starting Fall 2024.
-
-
-<a href="https://arxiv.org/abs/2205.02347" target="_blank" rel="noopener noreferrer">
-
-Broadly interested in social networks and population dynamics, I take a relational and structural approach to studying social processes and people's experience therein. My dissertation examines how network dynamics and geopolitical conditions shape migration. One of the chapters identifies the <a href="https://arxiv.org/abs/2205.02347" target="_blank" rel="noopener noreferrer">social and political cleavages behind immobility</a> of Americans; another chapter interrogates the phenomenon of "California Exodus." My second line of research studies the spatial distribution of social relations, and its application in understanding the <a href="https://doi.org/10.1073/pnas.2011656117" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">diffusion of infectious diseases</a> such as COVID-19, and the related <a href="https://doi.org/10.1073/pnas.2121675119" target="_blank" rel="noopener noreferrer">health disparity issues</a>. <br />
-
-using Markov chain Monte Carlo and loglinear models
-
-My research is driven by interests in general questions about how people get along with each other in various social and geographical spaces: how we connect with our neighbors? what drives people to leave a place, and what holds on them to stay? where are people moving, and how new and old settlers of a place make sense of their relationships?
-I enjoy the insights from formal and relational approaches originated in mathematical sociology, which unveils structural forces and related mechanisms that shape people's experience, behaviors, and perceptions. But I am also a fan of methodological pluralism, appreciative of the rich and unique perspectives we gain from examining social phenomenon at different angles.
-A statistician by training, I am a methodologist avid for developing analytical tools to study problems that was deterred by a lack of related methods, which is a common challenge for studies of migration and social networks given the difficulty of information access and their interesting data structures. This interest in methodology also encourages me to think critically when evaluating the research process to make sure methods are properly emlpoyed and interpreted. 
-
-
-I also develop statistical and computational methods. I develop methods and tools to model large, dynamic, valued networks using the [ERGM] framework, by implementing functions of Maximum Pseudo Likelihood Estimation. In another project, we develop methods to input three-way crosstab data using loglinear models and simulated annealing, which could be employed to estimate the interactions among demographic characteristics in different geographic areas. I also write codes under the ergm framework in R to model network patterns, visualize model accuracy, create formatted regression tables, etc. You can sisit the programming section for more information.
-I am also implementing codes, as extension of [ergm.count] package in R, for goodness-of-fit diagnosis and modeling of dependence terms. 
--->
-
 
 
 ## Contact
@@ -50,6 +25,3 @@ Email: peng.huang [at] uga.edu <br />
 <a href="https://orcid.org/0000-0001-5614-786X" target="_blank" rel="noopener noreferrer">ORCID</a> <br />
 <a href="https://www.linkedin.com/in/peng-huang-a1b4b9a4" target="_blank" rel="noopener noreferrer">LinkedIn</a> <br />
 <a href="https://bsky.app/profile/phuang.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a> 
-<!--
-<a href="https://twitter.com/PengHuangSoc" target="_blank" rel="noopener noreferrer">Twitter</a> 
--->
