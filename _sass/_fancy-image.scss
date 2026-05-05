@@ -27,6 +27,7 @@
     float: right;
     margin-top: 0;
     margin-left: 1em;
+    margin-right: 1em;
     margin-bottom: 0.75em;
 }
 @include media-query($mobile) {
