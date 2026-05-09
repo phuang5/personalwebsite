@@ -1,5 +1,5 @@
 
 .DS_Store
-/CV/.DS_Store
-/images/.DS_Store
-/files/.DS_Store
+_site/
+.jekyll-cache/
+.claude/

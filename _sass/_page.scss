@@ -36,19 +36,23 @@
 }
 
 .post dl {
-    display: grid;
-    grid-template-columns: max-content 1fr;
-    column-gap: 1.25em;
-    row-gap: $spacing-unit * 0.8;
-    align-items: baseline;
+    &::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
 }
 
 .post dt {
+    float: left;
+    clear: left;
+    width: 5.5em;
     font-weight: bold;
 }
 
 .post dd {
-    margin: 0;
+    margin-left: 6.75em;
+    margin-bottom: $spacing-unit * 0.8;
 }
 
 .post h1, h2, h3, h4, h5, h6 {

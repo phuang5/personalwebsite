@@ -5,6 +5,14 @@
     overflow: hidden;
 }
 
+.img-caption {
+    display: block;
+}
+
+.alignright .img-caption {
+    text-align: right;
+}
+
 .captioned-img img {
     display: block;
     margin: auto auto;
