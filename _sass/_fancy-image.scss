@@ -13,6 +13,10 @@
     text-align: right;
 }
 
+.paper .img-caption {
+    text-align: center;
+}
+
 .captioned-img a {
     display: block;
 }
@@ -48,5 +52,8 @@
         margin-left: auto;
         margin-right: auto;
         float: none;
+    }
+    .alignright .img-caption {
+        text-align: center;
     }
 }
