@@ -6,6 +6,9 @@ title: News
 
 {% include image.html url="/images/dispersion.png" caption="Credit: Dr. Sophia Arabadjis" align="right" width="320px" %}
 
+**May 2026**
+: My paper, "[Micro–Macro Analysis of Network Change](https://doi.org/10.1016/j.socnet.2026.04.009){:target="_blank" rel="noopener noreferrer"}," is published in *Social Networks* with open access.
+
 **Apr 2026**
 : I gave a research [presentation](https://ibs.colorado.edu/event/ibs-speaker-series-peng-huang/){:target="_blank" rel="noopener noreferrer"} at the Institute of Behavioral Science, University of Colorado, Boulder.
 
