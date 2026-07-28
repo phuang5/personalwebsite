@@ -1,4 +1,15 @@
 @include media-query($mobile) {
+    // Undo the desktop flex row; the mobile nav is absolutely positioned
+    .site-header {
+        display: block;
+        padding: 0;
+    }
+
+    .site-header .site-title {
+        display: inline-block;
+        margin: 0.85em 0 0.55em;
+    }
+
     .site-nav h1 {
         border-bottom: 1px solid $line-color;
         cursor: pointer;

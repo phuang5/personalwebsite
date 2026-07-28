@@ -2,8 +2,10 @@
     border-bottom: 1px solid $line-color;
     position: relative;
     text-transform: uppercase;
-    font-size: $small-font-size;
-    @extend %clearfix;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 0.85em 0 0.55em;
 }
 
 .site-header, .site-header a {
@@ -14,12 +16,10 @@
     text-decoration: none;
 }
 
-.site-title {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    float: left;
-    letter-spacing: 1px;
-    font-weight: bold;
+.site-header .site-title {
+    font-size: 1em;
+    font-weight: normal;
+    letter-spacing: 1.5px;
 }
 
 .site-nav {
@@ -28,17 +28,17 @@
 
 .site-nav ul {
     text-align: right;
-    float: right;
     letter-spacing: 1px;
     list-style-type: none;
+    margin: 0;
 }
 
 .site-nav .menu > li {
     display: inline-block;
-    margin: 1em 0 0 0.75em;
+    margin: 0 0 0 0.75em;
     padding: 0;
     position: relative;
-    vertical-align: middle;
+    vertical-align: baseline;
 }
 
 .site-nav a {
@@ -98,7 +98,7 @@
 }
 
 .site-nav {
-    float: right;
+    font-size: $small-font-size;
 
     .menu-icon {
         display: none;
@@ -106,11 +106,6 @@
 
     .page-link {
         color: $header-text-color;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
     }
 
     @include media-query($mobile) {
