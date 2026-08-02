@@ -4,13 +4,16 @@ permalink: /news/
 title: News
 ---
 
-{% include image.html url="/images/dispersion.png" caption="Credit: Dr. Sophia Arabadjis" align="right" width="320px" %}
+{% include image.html url="/images/dispersion.png" caption="Credit: Dr. Sophia Arabadjis" align="right" width="280px" %}
 
-**June 2026**
+**Aug 2026**
+: My paper, "Joint Destiny? Mapping Political Polarization through Demographic Decomposition," was accepted for publication in *Demography*.
+
+**Jun 2026**
 : I gave a guest lecture to Doctor of Public Health students at UGA about understanding infectious disease diffusion through a network lens.
 
 **May 2026**
-: My paper, "[Micro–Macro Analysis of Network Change](https://doi.org/10.1016/j.socnet.2026.04.009){:target="_blank" rel="noopener noreferrer"}," is published in *Social Networks* with open access.
+: My paper, "[Micro–Macro Analysis of Network Change](https://doi.org/10.1016/j.socnet.2026.04.009){:target="_blank" rel="noopener noreferrer"}," was published in *Social Networks*.
 
 **Apr 2026**
 : I gave a research [presentation](https://ibs.colorado.edu/event/ibs-speaker-series-peng-huang/){:target="_blank" rel="noopener noreferrer"} at the Institute of Behavioral Science, University of Colorado, Boulder.
