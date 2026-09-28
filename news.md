@@ -6,7 +6,7 @@ title: News
 
 {% include image.html url="/images/dispersion.png" caption="Credit: Dr. Sophia Arabadjis" align="right" width="280px" %}
 
-**Aug 2026**
+**Oct 2026**
 : I will give a research talk to the computational social science work group at UNC Chapel Hill.
 
 **Aug 2026**
