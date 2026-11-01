@@ -7,7 +7,7 @@ title: News
 {% include image.html url="/images/dispersion.png" caption="Credit: Dr. Sophia Arabadjis" align="right" width="280px" %}
 
 **Oct 2026**
-: I will give a research talk to the computational social science work group at UNC Chapel Hill.
+: I gave a research talk to the computational social science work group at UNC Chapel Hill.
 
 **Aug 2026**
 : My paper, "Joint Destiny? Mapping Political Polarization through Demographic Decomposition," was accepted for publication in *Demography*.

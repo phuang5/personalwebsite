@@ -5,6 +5,11 @@ title: Research
 ---
 {% assign thumbnail="right" %}
 <div class="paper">
+	<p><strong>Joint Destiny? Mapping Political Polarization through Demographic Decomposition</strong> (<em>Demography</em>&nbsp; 2027)</p>
+	Currently in press. Details to follow.
+</div>
+
+<div class="paper">
 	<p><strong><a href="https://doi.org/10.1016/j.socnet.2026.04.009" target="_blank" rel="noopener noreferrer">Micro–Macro Analysis of Network Change</a></strong> (<em>Social Networks</em>&nbsp; 2026)</p>
 	{% include image.html url="../images/temporal_diagram.png" caption="" height="220px" align=thumbnail %}
 	This paper introduces two complementary frameworks for longitudinal network analysis when the estimands differ from the coefficients of statistical models. The immediate effect model (IEM) quantifies how the change in micro-level mechanisms between two time points explain the change in macro-level outcomes. The cumulative effect model (CEM) captures the long-term impacts of changes in micro-level mechanisms across multiple time points on certain macro-level outcomes. The models can flexibly accommodate varying numbers of time points, different longitudinal network models, various counterfactual designs, and the existence of time-varying covariates. The paper provides estimands, identifying equations and assumptions, an estimation algorithm, and an empirical example.
